@@ -27,7 +27,10 @@
     "next-env.d.ts",
     ".next/types/**/*.ts",
     "**/*.ts",
-    "**/*.tsx"
+    "**/*.tsx",
+    "src/app/test-loading/page.jsx",
+    "src/app/test-loading/loading.jsx",
+    "src/app/test-loading/ClientRouteFetch.jsx"
   ],
   "exclude": [
     "node_modules"
