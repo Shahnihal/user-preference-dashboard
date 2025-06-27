@@ -30,7 +30,8 @@
     "**/*.tsx",
     "src/app/test-loading/page.jsx",
     "src/app/test-loading/loading.jsx",
-    "src/app/test-loading/ClientRouteFetch.jsx"
+    "src/app/test-loading/ClientRouteFetch.jsx",
+    "src/app/client-try/page.jsx"
   ],
   "exclude": [
     "node_modules"
